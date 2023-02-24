@@ -20,6 +20,7 @@ Whether you are a fellow data scientist, machine learning enthusiast, or someone
 | ----- | -----|
 | 1. [**Exploring Data with SQL**](https://github.com/SumitxThokar/Exploring-Data-with-SQL) | :white_check_mark: |
 | 2. [**Data Cleaning with SQL**](https://github.com/SumitxThokar/Data-Cleaning-with-SQL) | :white_check_mark: |
+| 3. [**Bike Customer and Sales Dashboard Project in Excel**](https://github.com/SumitxThokar/Full-project-in-Excel) | :white_check_mark: |
 
 ## Power BI Projects
 | **Projects** | **Status of Completion** |
