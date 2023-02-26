@@ -15,6 +15,12 @@ Whether you are a fellow data scientist, machine learning enthusiast, or someone
 | 5. [**Titanic-Machine Learning From Disaster**](https://github.com/SumitxThokar/Titanic---Machine-Learning-from-Disaster/blob/main/Titanic%20prediction/titanic.ipynb) | :white_check_mark: | 
 | 6. [**IBM Data Science Capstone Project**](https://github.com/SumitxThokar/Data-Science-Capstone-Project) | :white_check_mark: | 
 
+## Deep Learning Projects
+| **Projects** | **Status of Completion** |
+| ----- | -----|
+| 1. [**Cats vs Dogs with CNN**](https://github.com/SumitxThokar/Neural-Networks/blob/main/Jupyter_File/C2W2_Assignment.ipynb) | :white_check_mark: |
+| 2. [**Horse vs Humans with CNN**](https://github.com/SumitxThokar/Neural-Networks/blob/main/Jupyter_File/C2W3_Assignment.ipynb) | :white_check_mark: |
+
 ## Projects using SQL and Excel.
 |**Projects**| **Status of Completion** |
 | ----- | -----|
