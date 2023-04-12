@@ -33,3 +33,5 @@ Whether you are a fellow data scientist, machine learning enthusiast, or someone
 | ----- | -----|
 | 1. [**Survey Analysis of Data Professionals**](https://github.com/SumitxThokar/Power_BI_Projects./blob/main/First%20Power%20BI%20(Alex)/project_1.pbix) | :white_check_mark: |
 | 2. [**Arsenal Stats After 2000**](https://github.com/SumitxThokar/Power-BI-Projects./blob/main/Arsenal_Stats/foot.pbix) | :white_check_mark: |
+| 2. [**EDA - Retail**](https://github.com/SumitxThokar/Power-BI-Projects./tree/main/Retail) | :white_check_mark: |
+
