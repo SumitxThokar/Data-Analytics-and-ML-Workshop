@@ -14,12 +14,17 @@ Whether you are a fellow data scientist, machine learning enthusiast, or someone
 | 4. [**Iris Flowers Classification ML Project**](https://github.com/SumitxThokar/LetsGrowMoreProjects/blob/main/Iris/IrisFlowerClassificationwithKNN.ipynb) | :white_check_mark: | 
 | 5. [**Titanic-Machine Learning From Disaster**](https://github.com/SumitxThokar/Titanic---Machine-Learning-from-Disaster/blob/main/Titanic%20prediction/titanic.ipynb) | :white_check_mark: | 
 | 6. [**IBM Data Science Capstone Project**](https://github.com/SumitxThokar/Data-Science-Capstone-Project) | :white_check_mark: | 
+| 7. [**Quora Duplicate Question Classifier**](https://github.com/SumitxThokar/Quora-Duplicate-Question-Classifier) | ✅ |
+| 8. [**SMS Spam Classifier**](https://github.com/SumitxThokar/SMS-Spam-Classifier) | ✅ |
+| 9. [**Diabetes Prediction with XGBoost and RandomForest**](https://github.com/SumitxThokar/Diabetes_Prediction_XGBoost_RandomForest/tree/main/Diabetes_pred) | ✅ |
+| 10. [**Optical Character Recognization***](https://github.com/SumitxThokar/Optical-Character-Recognization) | ✅ |
 
 ## Deep Learning Projects
 | **Projects** | **Status of Completion** |
 | ----- | -----|
 | 1. [**Cats vs Dogs with CNN**](https://github.com/SumitxThokar/Neural-Networks/blob/main/Jupyter_File/C2W2_Assignment.ipynb) | :white_check_mark: |
 | 2. [**Horse vs Humans with CNN**](https://github.com/SumitxThokar/Neural-Networks/blob/main/Jupyter_File/C2W3_Assignment.ipynb) | :white_check_mark: |
+| 3. [**Stock Price Prediction with Stacked LSTM**](https://github.com/SumitxThokar/Stock-Price-Prediction-with-Stacked-LSTM) | :white_check_mark: |
 
 ## Projects using SQL and Excel.
 |**Projects**| **Status of Completion** |
