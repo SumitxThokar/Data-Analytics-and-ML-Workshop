@@ -17,7 +17,7 @@ Whether you are a fellow data scientist, machine learning enthusiast, or someone
 | 7. [**Quora Duplicate Question Classifier**](https://github.com/SumitxThokar/Quora-Duplicate-Question-Classifier) | ✅ |
 | 8. [**SMS Spam Classifier**](https://github.com/SumitxThokar/SMS-Spam-Classifier) | ✅ |
 | 9. [**Diabetes Prediction with XGBoost and RandomForest**](https://github.com/SumitxThokar/Diabetes_Prediction_XGBoost_RandomForest/tree/main/Diabetes_pred) | ✅ |
-| 10. [**Optical Character Recognization***](https://github.com/SumitxThokar/Optical-Character-Recognization) | ✅ |
+| 10. [**Optical Character Recognization**](https://github.com/SumitxThokar/Optical-Character-Recognization) | ✅ |
 
 ## Deep Learning Projects
 | **Projects** | **Status of Completion** |
