@@ -27,8 +27,8 @@ Whether you are a fellow data scientist, machine learning enthusiast, or someone
 | 3. [**Stock Price Prediction with Stacked LSTM**](https://github.com/SumitxThokar/Stock-Price-Prediction-with-Stacked-LSTM) | :white_check_mark: |
 | 4. [**Potato disease classifier**](https://github.com/SumitxThokar/Potato-disease-classifier) | ✅ |
 | 4. [**Face recognition**](https://github.com/SumitxThokar/Face-recognition) | ✅ |
-| 4. [**Potato disease classifier**](https://github.com/SumitxThokar/Potato-disease-classifier) | ✅ |
-| 4. [**Potato disease classifier**]() | ✅ |
+| 4. [**Neural Style Transfer**](https://github.com/SumitxThokar/Neural-Style-Transfer) | ✅ |
+| 4. [**Dinosaur Island Character-Level Language Model**](https://github.com/SumitxThokar/Dinosaur-Island-LM) | ✅ |
 
 ## Projects using SQL and Excel.
 |**Projects**| **Status of Completion** |
