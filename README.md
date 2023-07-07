@@ -26,6 +26,9 @@ Whether you are a fellow data scientist, machine learning enthusiast, or someone
 | 2. [**Horse vs Humans with CNN**](https://github.com/SumitxThokar/Neural-Networks/blob/main/Jupyter_File/C2W3_Assignment.ipynb) | :white_check_mark: |
 | 3. [**Stock Price Prediction with Stacked LSTM**](https://github.com/SumitxThokar/Stock-Price-Prediction-with-Stacked-LSTM) | :white_check_mark: |
 | 4. [**Potato disease classifier**](https://github.com/SumitxThokar/Potato-disease-classifier) | ✅ |
+| 4. [**Face recognition**](https://github.com/SumitxThokar/Face-recognition) | ✅ |
+| 4. [**Potato disease classifier**](https://github.com/SumitxThokar/Potato-disease-classifier) | ✅ |
+| 4. [**Potato disease classifier**]() | ✅ |
 
 ## Projects using SQL and Excel.
 |**Projects**| **Status of Completion** |
